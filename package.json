@@ -1,0 +1,22 @@
+{
+  "name": "httpproject",
+  "version": "1.0.0",
+  "description": "httpproject",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavan898/httpproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavan898/httpproject/issues"
+  },
+  "homepage": "https://github.com/pavan898/httpproject#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
